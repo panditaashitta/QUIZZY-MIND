@@ -47,4 +47,6 @@ Runs entirely in the browser with pure HTML, CSS, and JavaScript.
 ![Preview](file.png)
 
 ## LIVE DEMO
+https://panditaashitta.github.io/quizzy-mind/
+
 
